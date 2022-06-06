@@ -1,6 +1,7 @@
 // Code your solution in this f
 
-let comapanyName = 'Scuber'
+const companyName = 'Scuber'
+
 
 let mostProfitableNeighborhood = 'Chelsea'
 
